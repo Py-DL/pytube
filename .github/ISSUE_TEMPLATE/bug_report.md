@@ -9,7 +9,7 @@ assignees: ''
 **Before creating an issue**
 
 Please confirm that you are on the latest version of pytube by installing from the source.
-You can do this by running `python -m pip install git+https://github.com/pytube/pytube`.
+You can do this by running `python -m pip install git+https://github.com/Py-DL/Py-DL`.
 Sometimes, the pypi library repository is not up to date, and your issue may have been fixed already!
 
 **Describe the bug**
@@ -29,5 +29,5 @@ If pytube raises an exception, please provide the full traceback for the excepti
 **System information**
 Please provide the following information:
 - Python version (run `python --version`)
-- Pytube version (run `print(pytube.__version__)` in python)
-- Command used to install pytube
+- Py-DL version (run `print(Py-DL.__version__)` in python)
+- Command used to install Py-DL
